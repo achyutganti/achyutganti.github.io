@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="xkcd">
+
+  <h1>{{ page.title }}</h1>
+  <h2> Today's xkcd </h2>
+  <script src="//rss.bloople.net/?url=https%3A%2F%2Fwww.xkcd.com%2Frss.xml&limit=1&showtitle=false&type=js"></script>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+</article>
