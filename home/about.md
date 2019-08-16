@@ -12,4 +12,4 @@ Theoretical CS is elegant, but systems are a whole world of detail. My interests
 
 I watch [Key and Peele](https://www.youtube.com/channel/UCdN4aXTrHAtfgbVG9HjBmxQ) for fun and [Last Week Tonight](https://www.youtube.com/user/LastWeekTonight) with John Oliver for more fun. [r/aww](https://reddit.com/r/aww) and [r/mildlyinteresting](https://reddit.com/r/mildlyinteresting) are also a couple favorites.
 
-My hobbies include learning about random tidbits of CS trivia, browsing Reddit, and stocking up on credit card cashback by paying the bill for group orders.
+My hobbies include learning about random tidbits of CS trivia, browsing Reddit, and carefully curating my Spotify playlists.
