@@ -1,7 +1,7 @@
 ---
 layout: xkcd
 title: xkcd
-permalink: /nice/xkcd
+permalink: /xkcd/
 ---
 
 ## A few of my favorites:
