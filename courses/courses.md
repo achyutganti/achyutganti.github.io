@@ -9,9 +9,9 @@ permalink: /courses/
 - Head TA 15-122
 - 15-411 Compiler Design
 - 15-455 Undergraduate Complexity Theory
-- 57-173 Survey of Western Music History
-- 57-188 Repertoire and Listening for Musicians
-- 66-221 Topics of Law: Introduction to IP Law
+- 57-173 Survey of Western Music History **(Cat 3)**
+- 57-188 Repertoire and Listening for Musicians **(Cat 3, co-req for 57-173)**
+- 66-221 Topics of Law: Introduction to IP Law **(Free elective)**
 
 ## Spring 2019
 
@@ -19,8 +19,8 @@ permalink: /courses/
 - 15-451 Algorithm Design and Analysis
 - 10-315 Introduction to Machine Learning
 - 15-381 Artificial Intelligence: Problem Solving and Representation
-- 70-100 Global Business
-- 70-160 Graphic Media Management
+- 70-100 Global Business **(Free elective)**
+- 70-160 Graphic Media Management **(Free elective)**
 - 98-244 Sign Lanuguage through Pop Music
 
 ## Fall 2018
@@ -30,14 +30,14 @@ permalink: /courses/
 - 15-213 Introduction to Computer Systems
 - 36-218 Probability Theory for Computer Scientists
 - 33-104 Experimental Physics
-- 70-311 Organizational Behavior
+- 70-311 Organizational Behavior **(Cat 1)**
 
 ## Spring 2018
 
 - TA 15-122
 - 15-150 Principles of Functional Programming
 - 15-251 Great Theoretical Ideas in Computer Science
-- 73-102 Principles of Microeconomics
+- 73-102 Principles of Microeconomics **(Cat 2)**
 - 21-241 Matrices and Linear Transformations
 
 ## Fall 2017
