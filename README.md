@@ -1,6 +1,6 @@
 # pranavmk98.github.io
 
-Currently hosts [pranavkumar.me](pranavkumar.me), my personal website
+Currently hosts [pranavkumar.me](https://pranavkumar.me), my personal website
 
 Libraries I used (the reason you're probably here):
 
