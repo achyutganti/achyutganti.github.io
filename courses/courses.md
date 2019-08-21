@@ -21,7 +21,7 @@ permalink: /courses/
 - 15-381 Artificial Intelligence: Problem Solving and Representation
 - 70-100 Global Business **(Free elective)**
 - 70-160 Graphic Media Management **(Free elective)**
-- 98-244 Sign Lanuguage through Pop Music
+- 98-244 Sign Language through Pop Music
 
 ## Fall 2018
 
