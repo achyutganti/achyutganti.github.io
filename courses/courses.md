@@ -56,9 +56,7 @@ permalink: /courses/
 
 For my easy reference.
 
-SPRING
+Spring 2020
 
-- 15-410 Operating System Design and Implementation (systems-conc 63/51 FIN)
-- 21-301 Combinatorics (math-minor FIN)
-- 33-120 Science and Science Fiction (science-req FIN)
-- (3 units of something, probably independent study)
+- 15-410 Operating System Design and Implementation (yay)
+- 15-317 Constructive Logic (Logic and Lang Elective)
