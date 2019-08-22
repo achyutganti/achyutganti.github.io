@@ -32,7 +32,7 @@ I'm putting this section up here in case you don't have the patience to read the
 1. People are super super friendly. You can walk up to or message anyone in the whole company, and they would be more than happy to help you with whatever bug you have, teaching you what they know. The amount of learning you can do just by talking to people is huge (one of my regrets - not talking to enough people)
 2. People know their stuff, and they know it well. We went out to a team dinner once, and a guy on my team started talking about the answer to the classic question "What happens when you type www.facebook.com (replace with any other website) into the browser and hit enter?" (the topic of conversation was interviews).
 <br/><br/>
-We had to forcefully change the topic of conversation 45 minutes in, by which time he had only reached the initial DNS lookup request produced by the browswer.
+We had to forcefully change the topic of conversation 45 minutes in, by which time he had only reached the initial DNS lookup request produced by the browser.
 
 3. They have a very open culture - everyone has access to the entire codebase (excluding user data of course), which I found immensely useful. I was allowed to view and modify the code used by every Facebook service - WhatsApp, Messenger, even Oculus. I find this culture really useful and important for a company which focuses on moving fast and growing; too many useful changes would otherwise be bogged down in bureaucracy and the like.
 4. Mark Zuckerberg has far less code committed to the codebase than the average employee (including me), and even he got roasted like crazy on PRs, so I guess there's hope after all
