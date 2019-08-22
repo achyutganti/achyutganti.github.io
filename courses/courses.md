@@ -59,4 +59,4 @@ For my easy reference.
 Spring 2020
 
 - 15-410 Operating System Design and Implementation (yay)
-- 15-317 Constructive Logic (Logic and Lang Elective)
+- 17-200 Ethics and Policy Issues in Computing (Communications)
