@@ -6,16 +6,17 @@ permalink: /courses/
 
 ## Fall 2019
 
-- Head TA 15-122
+- **Head TA 15-122**
 - 15-411 Compiler Design
 - 15-455 Undergraduate Complexity Theory
+- 36-401 Modern Regression **(ML Minor)**
 - 57-173 Survey of Western Music History **(Cat 3)**
 - 57-188 Repertoire and Listening for Musicians **(Cat 3, co-req for 57-173)**
 - 66-221 Topics of Law: Introduction to IP Law **(Free elective)**
 
 ## Spring 2019
 
-- TA 15-122
+- **TA 15-122**
 - 15-451 Algorithm Design and Analysis
 - 10-315 Introduction to Machine Learning
 - 15-381 Artificial Intelligence: Problem Solving and Representation
@@ -25,7 +26,7 @@ permalink: /courses/
 
 ## Fall 2018
 
-- TA 15-122
+- **TA 15-122**
 - 15-210 Parallel and Sequential Data Structures and Algorithms
 - 15-213 Introduction to Computer Systems
 - 36-218 Probability Theory for Computer Scientists
@@ -34,7 +35,7 @@ permalink: /courses/
 
 ## Spring 2018
 
-- TA 15-122
+- **TA 15-122**
 - 15-150 Principles of Functional Programming
 - 15-251 Great Theoretical Ideas in Computer Science
 - 73-102 Principles of Microeconomics **(Cat 2)**
