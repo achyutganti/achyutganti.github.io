@@ -9,7 +9,7 @@ permalink: /courses/
 - **Head TA 15-122**
 - 15-410 Operating System Design and Implementation **(Systems Concentration)**
 - 15-330 Introduction to Computer Security **(Systems Concentration)**
-- 15-317 Contructive Logic
+- 15-317 Constructive Logic
 - 17-200 Ethics and Policy Issues in Computing
 
 ## Fall 2019
@@ -60,3 +60,7 @@ permalink: /courses/
 - 76-101 Interpretation and Argument
 - 99-101 Computing @ Carnegie Mellon
 - 98-012 Fun with Robots
+
+## Update
+
+1 course away from graduation? Too soon...

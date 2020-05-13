@@ -11,4 +11,5 @@ Particularly interesting or entertaining tidbits I have stumbled across over tim
 - [wat](https://www.destroyallsoftware.com/talks/wat)
 - [cheat.sh](https://github.com/chubin/cheat.sh)
 - [Nathan W Pyle](https://www.nathanwpyle.art/strangeplanet)
-- [What happens when] (https://github.com/alex/what-happens-when)
+- [What happens when](https://github.com/alex/what-happens-when)
+- [CPU caches and why you care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
