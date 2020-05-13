@@ -4,10 +4,18 @@ title: Courses @ CMU
 permalink: /courses/
 ---
 
+## Spring 2020 (COVID-19 hybrid semester)
+
+- **Head TA 15-122**
+- 15-410 Operating System Design and Implementation **(Systems Concentration)**
+- 15-330 Introduction to Computer Security **(Systems Concentration)**
+- 15-317 Contructive Logic
+- 17-200 Ethics and Policy Issues in Computing
+
 ## Fall 2019
 
 - **Head TA 15-122**
-- 15-411 Compiler Design
+- 15-411 Compiler Design **(Systems Concentration)**
 - 15-455 Undergraduate Complexity Theory
 - 36-401 Modern Regression **(ML Minor)**
 - 57-173 Survey of Western Music History **(Cat 3)**
@@ -52,12 +60,3 @@ permalink: /courses/
 - 76-101 Interpretation and Argument
 - 99-101 Computing @ Carnegie Mellon
 - 98-012 Fun with Robots
-
-## Tentative Course Plan
-
-For my easy reference.
-
-Spring 2020
-
-- 15-410 Operating System Design and Implementation (yay)
-- 17-200 Ethics and Policy Issues in Computing (Communications)

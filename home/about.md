@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Pranav, and I study Computer Science at Carnegie Mellon University.
+Hi! I'm Pranav, and I'm a rising senior (class of 2021) studying Computer Science at Carnegie Mellon University.
 
 ## Interests
 
-Theoretical CS is elegant, but systems are a whole world of detail. My interests lie in low level computer systems, optimization techniques and compilers. My problem solving approach is very logical and solution driven, leading to my inability to "take my mind off things" when I'm working on something interesting.
+My interests lie in operating system development, performance optimization, and compiler development. My problem solving approach is very logical and solution driven, leading to my inability to "take my mind off things" when I'm working on something interesting.
 
-I watch [Key and Peele](https://www.youtube.com/channel/UCdN4aXTrHAtfgbVG9HjBmxQ) for fun and [Last Week Tonight](https://www.youtube.com/user/LastWeekTonight) with John Oliver for more fun. [r/aww](https://reddit.com/r/aww) and [r/mildlyinteresting](https://reddit.com/r/mildlyinteresting) are also a couple favorites.
+Outside of academics, I am a senator for the School of Computer Science, a part of CMU's [student government] (https://www.cmu.edu/stugov/).
 
-I love Indian and Thai food, and regularly order spice level 10 at restaurants I go to. My hobbies include learning about random tidbits of CS trivia, browsing Reddit, and carefully curating my Spotify playlists.
+Some of my favorite YouTube channels are [Kurzgesagt] (https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q), [Vsauce] (https://www.youtube.com/user/Vsauce), [Tom Scott] (https://www.youtube.com/user/enyay), and [Last Week Tonight] (https://www.youtube.com/user/LastWeekTonight) with John Oliver. I also browse Hacker News and Reddit from time to time.
+
+I love Indian and Thai food, with a penchant for trying out all kinds of spicy dishes. My hobbies include playing Super Smash Bros Ultimate, playing all kinds of sports, and carefully curating my Spotify playlists.
