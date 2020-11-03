@@ -5,7 +5,7 @@ permalink: /courses/
 ---
 
 ## Fall 2020 (COVID-19 hybrid semester)
-- **TA 15-411**
+- **TA (15-411)[https://www.cs.cmu.edu/~411/]**
 - Research with [Seth Goldstein](http://www.cs.cmu.edu/~seth/) on Fast Register Allocation for JIT compilation
 - 15-440 Distributed Systems
 - 15-459 Quantum Computation
@@ -13,7 +13,7 @@ permalink: /courses/
 
 ## Spring 2020 (COVID-19 hybrid semester)
 
-- **Head TA 15-122**
+- **Head TA (15-122)[https://www.cs.cmu.edu/~iliano/courses/20S-CMU-CS122/]**
 - 15-410 Operating System Design and Implementation **(Systems Concentration)**
 - 15-330 Introduction to Computer Security **(Systems Concentration)**
 - 15-317 Constructive Logic
@@ -21,7 +21,7 @@ permalink: /courses/
 
 ## Fall 2019
 
-- **Head TA 15-122**
+- **Head TA (15-122)[https://www.cs.cmu.edu/~iliano/courses/19F-CMU-CS122/]**
 - 15-411 Compiler Design **(Systems Concentration)**
 - 15-455 Undergraduate Complexity Theory
 - 36-401 Modern Regression **(ML Minor)**
@@ -31,7 +31,7 @@ permalink: /courses/
 
 ## Spring 2019
 
-- **TA 15-122**
+- **TA (15-122)[https://www.cs.cmu.edu/~iliano/courses/19S-CMU-CS122/]**
 - 15-451 Algorithm Design and Analysis
 - 10-315 Introduction to Machine Learning
 - 15-381 Artificial Intelligence: Problem Solving and Representation
@@ -41,7 +41,7 @@ permalink: /courses/
 
 ## Fall 2018
 
-- **TA 15-122**
+- **TA (15-122)[https://www.cs.cmu.edu/~iliano/courses/18F-CMU-CS122/]**
 - 15-210 Parallel and Sequential Data Structures and Algorithms
 - 15-213 Introduction to Computer Systems
 - 36-218 Probability Theory for Computer Scientists
@@ -50,7 +50,7 @@ permalink: /courses/
 
 ## Spring 2018
 
-- **TA 15-122**
+- **TA (15-122)[https://www.cs.cmu.edu/~iliano/courses/18S-CMU-CS122/]**
 - 15-150 Principles of Functional Programming
 - 15-251 Great Theoretical Ideas in Computer Science
 - 73-102 Principles of Microeconomics **(Cat 2)**
