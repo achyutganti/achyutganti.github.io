@@ -14,4 +14,3 @@ permalink: /xkcd/
 - [676](https://xkcd.com/676/)
 - [1765](https://xkcd.com/1765/)
 - [1888](https://xkcd.com/1888/)
-

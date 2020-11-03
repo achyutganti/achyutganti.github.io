@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Pranav, and I'm a rising senior (class of 2021) studying Computer Science at Carnegie Mellon University.
+Hi! I'm Pranav, and I'm a rising senior (class of 2021) studying Computer Science (with a concentration in Computer Systems) at Carnegie Mellon University.
 
 ## Interests
 

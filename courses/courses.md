@@ -4,6 +4,13 @@ title: Courses @ CMU
 permalink: /courses/
 ---
 
+## Fall 2020 (COVID-19 hybrid semester)
+- **TA 15-411**
+- Research with [Seth Goldstein](http://www.cs.cmu.edu/~seth/) on Fast Register Allocation for JIT compilation
+- 15-440 Distributed Systems
+- 15-459 Quantum Computation
+- 21-295 Putnam Seminar
+
 ## Spring 2020 (COVID-19 hybrid semester)
 
 - **Head TA 15-122**
