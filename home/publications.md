@@ -1,0 +1,20 @@
+---
+layout: page
+permalink: /about/
+---
+
+<html>
+  <body>
+    <section class = "biography" itemprop = "text">
+<h2 id = "publications">Publications</h2>
+<ul>
+<li><b>Narrative Detection and Feature Analysis in Online Health Communities</b><br>
+Achyutarama R. Ganti, Steven Wilson, Zexin Ma, Xinyan Zhao, Rong Ma <br>
+<font size = "-1"><em>WNU 2022</em></font> <br>
+<a href="" style = "color:#ff5733;" target = "_blank">[paper]</a>
+ </li>
+
+</ul>
+    </section>
+  </body>
+</html>
