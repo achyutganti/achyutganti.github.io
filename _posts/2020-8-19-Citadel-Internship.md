@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Summer 2020 @ Citadel
-permalink: /summer_2020_citadel/
+title: Basic Linux Commands Every User Should Know
+permalink: /basic_linux_commands/
 ---
 
 ### Below are a list of all commands that I've used at some point in time.
