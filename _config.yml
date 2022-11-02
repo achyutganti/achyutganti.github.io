@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Pranav Kumar
+name: Achyut Ganti
 
 # Short bio or description (displayed in the header)
-description: Junior at Carnegie Mellon University, SCS Class of 2021
+description: PhD/Computer Science
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/pranavmk98/pranavmk98.github.io/master/images/personal/profile_pic.jpg
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/pranavmk98/pranavmk98.github.io/master
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: pmkumar@cmu.edu
-  facebook: 100018707857490
+  email: achyutganti.ag@gmail.com
+  facebook: 
   flickr:
-  github: pranavmk98
+  github: achyutganti
   instagram:
-  linkedin: pranavmk98
+  linkedin: 
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter:
+  rss: rss # just type anything here for a working RSS icon
+  twitter: AchyutGanti
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> r user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ google_analytics: UA-112334422-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://achyutganti.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
