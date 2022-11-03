@@ -1,1 +1,1 @@
-I've designed this website using an existing [Jekyll theme](https://jekyllnow.com).
+I've designed this website using an existing <a href="https://jekyllnow.com" target="_blank">Jekyll Now</a>.
