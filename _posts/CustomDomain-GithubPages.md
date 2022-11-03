@@ -8,4 +8,7 @@ But if you're all set till here, the next step is where we set the custom domain
 
 Go back to your respository where the source code is stored. You will notice that GitHub has created a new file under the name CNAME. You will see the domain name if you click on it and nothing else. 
 
-At this stage, we've taken care of everything we need to on the GitHub side.
+At this stage, we've taken care of everything we need to on the GitHub side. Before we go to Google Domains, click on [this link](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site). 
+
+Now go to Google Domains and log in with your credentials. Go to My Domains tab on the left hand side and you should see the domain you've purchased. Click on it. Again, on the left hand side, you will see the DNS section. Clicking on it will take you to a page which says Default Name Servers and Custom Name Servers. Under the Default Name Servers section you should see a custom records section. We will add two types of records here. 
+
