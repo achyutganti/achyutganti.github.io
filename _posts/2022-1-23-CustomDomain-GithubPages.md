@@ -1,3 +1,9 @@
+---
+layout: post
+title: Hosting your Website on GitHub Pages Using a Custom Domain
+permalink: /githubpages_custom_domain/
+---
+
 I've designed this website using this template [Jekyll Now](https://jekyllnow.com) and it's hosted using GitHub pages. But if you're like me you probably want your URL to be custom and not use what github gives you (with the github.io extension). I'm assuming that you already have a domain name purchased from sites like GoogleDomains, GoDaddy.com etc. I purchased mine through Google Domains.
 
 The first thing to make sure, even before worrying about the domain, is whether your site is actually deployed on GitHub Pages properly. If not, redirecting your site from pages to your custom URL won't be possible. 
