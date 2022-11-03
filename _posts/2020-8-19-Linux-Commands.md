@@ -4,7 +4,7 @@ title: Basic Linux Commands Every User Should Know
 permalink: /basic_linux_commands/
 ---
 
-### Below are a list of all commands that I've used at some point in time.
+Below are a list of all commands that I've used at some point in time.
 
 1) linux command to list all the processes going on 
  - top  - traditional way to ccheck the processes in linux
