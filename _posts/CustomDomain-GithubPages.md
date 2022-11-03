@@ -1,1 +1,1 @@
-I've designed this website using this template [Jekyll Now](https://jekyllnow.com){:target="_blank"} and it's hosted using GitHub pages. But if you're like me you would probably want your URL to be custom and not what github gives you (with the github.io extension). 
+I've designed this website using this template [Jekyll Now](https://jekyllnow.com) and it's hosted using GitHub pages. But if you're like me you would probably want your URL to be custom and not what github gives you (with the github.io extension). 
