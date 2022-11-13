@@ -12,7 +12,7 @@ Some basics, first, when you do `Ctrl+Alt+T` on your keyboard, you will load up 
 
 And if you want to know who you are (username), just type `whoami` in the terminal and linux will tell you who you are. And if you want to know the hostname, then there are two ways to do that. Simply type `hostname` in terminal, or you can either do `cat /etc/hostname`. Remember this other one and will come back to it later when we discuss the file structure in linux. 
 
-![whoami](/images/posts/whoami.png)
+![whoami](/images/posts/whoami.png)   ![hostname](/images/posts/hostname.png)
 
 Open your terminal and type `cd /` and that will take you to the root directory. Type the `ls` command to see the files and folders that are in this root directory. Alternatively if you want to see a tree, type `tree -L 1` and hit enter. 
 
