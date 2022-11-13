@@ -75,6 +75,9 @@ Now we come to the directory where we feel the most safe at. When you open your 
 # **7) /root**
 Just like regular users (@drwho) have their own home directory, the /root directory is our system administrator's home directory. One of the most secured directories in the linux file system. It doesn't even let me in. You could sudo ls root to look at its contents.Another one of those "DONT MESS WITH ME" privileges. In Ubuntu there are two ways you can get access to the root user. One is using the su command which stands for substitute user or super user  and the other is sudo command. They both achieve the same results but in a slightly different ways. Running su command actually lets you log into the super user account and run commands or scripts  unconditionally whereas sudo lets you be in the current user account while temporarily elevating your access to the root level. sudo is considered much more safer than su because of the inherent risks su command possesses.  
 
+![root](https://user-images.githubusercontent.com/22865262/201540555-9ebb9f27-328b-4d5c-8708-51a405918b25.png)
+
+
 # **8) /usr**
 The next directory is /usr also called the User directory and this is where things begin to get a little confusing for users. Type `cd usr` and get inside it and take a look at its contents. That's strange. You have a another bin subdirectory, a lib and sbin folders too. Go inside the bin folder to see what you have? 
 
