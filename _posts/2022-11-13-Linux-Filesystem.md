@@ -116,6 +116,8 @@ The proc directory is another one of those weird directories because it's virtua
 # **13) /tmp**
 Needs no introduction, /tmp stands for temporary. It contains all the temp files and directories that are being used by the computer and and are kept on disk. By default the files that are kept in the tmp folder are deleted within 10 days.
 
+## Final Words
+
 And there you have it. Now we have an idea of how linux file system is actually structured and how things from various directories work together to perform operations seamlessly. Although it may look like convoluted chaos, there is soo much efficency in how things are arranged here and as users it is very helpful to understand this 'chaos'. That said, bear in mind that although these are separate folders, they often work together exchanging files between the programs and scripts. So messing up one small thing could mean that you ruin your entire system. If you mess with the boot folder, you know your system wouldn't boot up properly. If you mess with the bin folder, then you may accidentally delete programs that the boot scripts depend on. Similarly messing with files in the /lib directory means ruining your kernel modules or the shared library files that bin and sbin depend on.
 
 But that shouldn't stop you from exploring your OS. Happy Learning!
