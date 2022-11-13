@@ -76,10 +76,24 @@ Now we come to the directory where we feel the most safe at. When you open your 
 Just like regular users (@drwho) have their own home directory, the /root directory is our system administrator's home directory. One of the most secured directories in the linux file system. It doesn't even let me in. You could sudo ls root to look at its contents.Another one of those "DONT MESS WITH ME" privileges. In Ubuntu there are two ways you can get access to the root user. One is using the su command which stands for substitute user or super user  and the other is sudo command. They both achieve the same results but in a slightly different ways. Running su command actually lets you log into the super user account and run commands or scripts  unconditionally whereas sudo lets you be in the current user account while temporarily elevating your access to the root level. sudo is considered much more safer than su because of the inherent risks su command possesses.  
 
 # **8) /usr**
-The next directory is /usr also called the User directory and this is where things begin to get a little confusing for users. Type 'cd usr' and get inside it and take a look at its contents. That's strange. You have a another bin subdirectory, a lib and sbin folders too. Go inside the bin folder to see what you have? The contents are all the same as of the /bin directory in the root. Check sbin and you should see something similar. These days /bin and /usr/bin are identical meaning one is a symbolic link to the latter. But there is an interesting piece of history behind it as for why the original creators needed two separate directories when they're basically doing the same. In short due to storage and that being expensive back in the days. The technical difference betwen them is that the /bin folder contains bare essentials for the system to survive even before the /usr directory is mounted and the /usr/bin directory contains all the other files that users install later like word processors, search engines and other applicatins. 
+The next directory is /usr also called the User directory and this is where things begin to get a little confusing for users. Type `cd usr` and get inside it and take a look at its contents. That's strange. You have a another bin subdirectory, a lib and sbin folders too. Go inside the bin folder to see what you have? 
+
+![usr-bin](https://user-images.githubusercontent.com/22865262/201540237-b587e72c-a11c-4906-bfe0-54514460ebee.png)
+
+
+The contents are all the same as of the /bin directory in the root. Check sbin and you should see something similar. These days /bin and /usr/bin are identical meaning one is a symbolic link to the latter. But there is an interesting piece of history behind it as for why the original creators needed two separate directories when they're basically doing the same. In short due to storage and that being expensive back in the days. The technical difference between them is that the /bin folder contains bare essentials for the system to survive even before the /usr directory is mounted and the /usr/bin directory contains all the other files that users install later like word processors, search engines and other applications. 
+
 
 # **9) /media**
 This directory is a latest edition into the linux file system and is a successor to the /mnt directory. Simply put, this directory mounts drives. Any external storage you connect to your machine will be automatically mounted here as files. Take a look at the screenshots below. 
+
+
+<p float="center">
+  <img src="/images/posts/CECHmedia.jpg" width="260" />
+  <img src="/images/posts/mediadir.png" width="260" /> 
+</p>
+
+
 
 # **10) /mnt**
 /mnt is the predecessor to the media directory and does the same function, i.e., it mounts drives too but something that a user does manually.
