@@ -16,12 +16,12 @@ Open your terminal and type 'cd /' and that will take you to the root directory.
 
 What you see here are the important directories that almost every linux distro is made of and let's go over each of these in detail.      
 
-**1) /bin**
+# 1) /bin
 The bin directory also called as binaries contains commands or programs that we can run. Note: There are several other bin directories in linux file structure like usr/bin and usr/local/bin. We will look into them later. Everytime you've switched directories until now you used the ls commands to display the contents of that directories. You will find that ls command in the form of a file here. These are binary executables that means you could look at the contents of that file right? Sure we can. let's take a look at what the ls commands looks like.
 Looks like a bunch of gibberish doesn't it. Yes, you aren't supposed to understand anything because these are machine readable binaries. Other commands you should find here are cp, rm, cat etc. The cat command we used above to display the contents of a file is also here. That means you can also do cat cat and display the contents of itself. The difference between the bin directory right in the root vs the bin found elsewhere is that the binaries in this directory are considered system essentials. The bare minimum applications that your system requires to perform operations(until you mount /usr) in case you are in a single user mode.     
 
 
-**2) /sbin**
+# **2) /sbin**
 sbin also called the system binaries is like bin but it contains commands only the administrators can use. This directory contains executables too but unlike the /bin directory where even normal users can access those programs, the files in this program need root privileges and are most often useful for system administration and maintenance tasks. For example, you may want to delete that 4th user profile on your family PC coz your brother has moved out and has his own laptop. In that case, you probably would use the deluser command which resides in this directory. similarly you will find adduser command here which is used to mount a new user. Other popular commands like the root, init and ifconfig can be found here.  
 
 **3) /lib**
