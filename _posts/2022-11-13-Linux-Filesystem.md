@@ -10,7 +10,7 @@ A single wrong move and you destroy the boot loader or misuse the super user acc
 
 Some basics, first, when you do `Ctrl+Alt+T` on your keyboard, you will load up the terminal. And what you see there are generally two distinct words separated by '@'. The first half of that string tells you the username in your home directory. There could be multiple depending on how many users have accounts on your system. And the second half of the string is called the hostname or domain name. Consider that your machine's name.
 
-And if you want to know who you are (username), just type `whoami` in the terminal and linux will tell you who you are. And if you want to know the hostname, then there are two ways to do that. Simply type `hostname` in terminal, or you can either do `cat /etc/hostname`. Remember this other one and will come back to it later when we discuss the file structure in linux. 
+And if you want to know who you are (username), just type `whoami` in the terminal and linux will tell you who you are. And if you want to know the hostname, then there are two ways to do that. Simply type `hostname` in terminal, or you can either do `cat /etc/hostname`. Remember the `cat` command, we will come back to it later when we discuss file structures in linux. 
 
 <p float="center">
   <img src="/images/posts/whoami.png" width="260" />
@@ -35,8 +35,12 @@ Type the `ls` command to see the files and folders that are in this root directo
 What you see here are the important directories that almost every linux distro is made of and let's go over each of these in detail.      
 
 # 1) /bin
-The bin directory also called as binaries contains commands or programs that we can run. Note: There are several other bin directories in linux file structure like usr/bin and usr/local/bin. We will look into them later. Everytime you've switched directories until now you used the ls commands to display the contents of that directories. You will find that ls command in the form of a file here. These are binary executables that means you could look at the contents of that file right? Sure we can. let's take a look at what the ls commands looks like.
-Looks like a bunch of gibberish doesn't it. Yes, you aren't supposed to understand anything because these are machine readable binaries. Other commands you should find here are cp, rm, cat etc. The cat command we used above to display the contents of a file is also here. That means you can also do cat cat and display the contents of itself. The difference between the bin directory right in the root vs the bin found elsewhere is that the binaries in this directory are considered system essentials. The bare minimum applications that your system requires to perform operations(until you mount /usr) in case you are in a single user mode.     
+The bin directory also called as binaries contains commands or programs that we can run. Note: There are several other bin directories in linux file structure like usr/bin and usr/local/bin. We will look into them later. Everytime you've switched directories until now you used the ls commands to display the contents of that directories. You will find that ls command in the form of a file here. These are binary executables that means you could look at the contents of that file right? Sure we can. let's take a look at what the `ls` commands looks like. 
+![cat-ls](https://user-images.githubusercontent.com/22865262/201539725-513ef8f3-1973-4664-8533-f842bf518725.png)
+
+
+
+Looks like a bunch of gibberish doesn't it. Yes, you aren't supposed to understand anything because these are machine readable binaries. Other commands you should find here are cp, rm, cat etc. The `cat` command we used above to display the contents of a file is also here. That means you can also do cat cat and display the contents of itself. The difference between the bin directory right in the root vs the bin found elsewhere is that the binaries in this directory are considered system essentials. The bare minimum applications that your system requires to perform operations(until you mount /usr) in case you are in a single user mode.     
 
 
 # **2) /sbin**
