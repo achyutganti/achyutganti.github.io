@@ -25,9 +25,11 @@ Open your terminal and type `cd /` and that will take you to the root directory.
 
 
 Type the `ls` command to see the files and folders that are in this root directory. Alternatively if you want to see a tree, type `tree -L 1` and hit enter.
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![lsinroot](https://user-images.githubusercontent.com/22865262/201539154-1decc532-8fbe-497f-9baa-9f01dbdcd60f.png)  |  ![treeinroot](https://user-images.githubusercontent.com/22865262/201539161-f088a63d-9cfc-4aaf-9866-213e99f70af4.png)
+
+<p float="center">
+  <img src="/images/posts/lsinroot.png" width="400" />
+  <img src="/images/posts/treeinroot.png" width="400" /> 
+</p>
 
 
 What you see here are the important directories that almost every linux distro is made of and let's go over each of these in detail.      
