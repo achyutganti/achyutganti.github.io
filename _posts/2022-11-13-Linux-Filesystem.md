@@ -97,9 +97,9 @@ This directory is a latest edition into the linux file system and is a successor
 </p>
 
 
-
 # **10) /mnt**
 /mnt is the predecessor to the media directory and does the same function, i.e., it mounts drives too but something that a user does manually.
+
 
 # **11) /opt**
 /opt also called Optional contains any files that are optional. That is, any custom applications that the users write themselves or any add-on applications that are not part of the default installation. Let's take a look at my /opt folder. I have a few things in here. For the add on-softwares I would expect more applications to be in here. But it also makes sense to consider /opt folder as a secondary home folder.  
@@ -108,9 +108,12 @@ This directory is a latest edition into the linux file system and is a successor
 
 
 # **12) /proc**
-The proc directory is another one of those weird directories because it's virtual. Linux file system facilitates running processes on a virtual file system mounted on /proc. From the root dir, type  'cd proc' and look at the contents of that directory. You see a bunch of numbers as directory names. These numbers are the pids. Look at my proc folder and you will notice that the total size of the contents in the directory is 0 which is weird. This is because these are created on the fly as they are read and are updated on the fly. In a nutshell this directory stores information about the various instances running on your system.   
+The proc directory is another one of those weird directories because it's virtual. Linux file system facilitates running processes on a virtual file system mounted on /proc. From the root dir, type  'cd proc' and look at the contents of that directory. You see a bunch of numbers as directory names. These numbers are the pids. Look at my proc folder and you will notice that the total size of the contents in the directory is 0 which is weird. 
 
 ![proc](https://user-images.githubusercontent.com/22865262/201540510-c39cb78a-70d4-43c9-9eb5-ace2375d305b.png)
+
+This is because these are created on the fly as they are read and are updated on the fly. In a nutshell this directory stores information about the various instances running on your system.   
+
 
 
 # **13) /tmp**
