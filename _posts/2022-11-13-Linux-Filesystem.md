@@ -12,11 +12,23 @@ Some basics, first, when you do `Ctrl+Alt+T` on your keyboard, you will load up 
 
 And if you want to know who you are (username), just type `whoami` in the terminal and linux will tell you who you are. And if you want to know the hostname, then there are two ways to do that. Simply type `hostname` in terminal, or you can either do `cat /etc/hostname`. Remember this other one and will come back to it later when we discuss the file structure in linux. 
 
-![whoami](/images/posts/whoami.png)   ![hostname](/images/posts/hostname.png)
+<p float="left">
+  <img src="/images/posts/whoami.png" width="100" />
+  <img src="/images/posts/hostname.png" width="100" /> 
+</p>
 
-Open your terminal and type `cd /` and that will take you to the root directory. Type the `ls` command to see the files and folders that are in this root directory. Alternatively if you want to see a tree, type `tree -L 1` and hit enter. 
 
-![rootdir](https://user-images.githubusercontent.com/22865262/201539034-f830f302-daca-4ea3-99e4-113fbea96b58.png)
+Open your terminal and type `cd /` and that will take you to the root directory.  
+
+![rootdir](https://user-images.githubusercontent.com/22865262/201539253-2993e154-1c79-43b6-b134-58ffd7407876.png)
+
+
+
+Type the `ls` command to see the files and folders that are in this root directory. Alternatively if you want to see a tree, type `tree -L 1` and hit enter.
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![lsinroot](https://user-images.githubusercontent.com/22865262/201539154-1decc532-8fbe-497f-9baa-9f01dbdcd60f.png)  |  ![treeinroot](https://user-images.githubusercontent.com/22865262/201539161-f088a63d-9cfc-4aaf-9866-213e99f70af4.png)
+
 
 What you see here are the important directories that almost every linux distro is made of and let's go over each of these in detail.      
 
