@@ -36,29 +36,40 @@ What you see here are the important directories that almost every linux distro i
 
 # 1) /bin
 The bin directory also called as binaries contains commands or programs that we can run. Note: There are several other bin directories in linux file structure like usr/bin and usr/local/bin. We will look into them later. Everytime you've switched directories until now you used the ls commands to display the contents of that directories. You will find that ls command in the form of a file here. These are binary executables that means you could look at the contents of that file right? Sure we can. let's take a look at what the `ls` commands looks like. 
+
 ![cat-ls](https://user-images.githubusercontent.com/22865262/201539725-513ef8f3-1973-4664-8533-f842bf518725.png)
 
 
 
-Looks like a bunch of gibberish doesn't it. Yes, you aren't supposed to understand anything because these are machine readable binaries. Other commands you should find here are cp, rm, cat etc. The `cat` command we used above to display the contents of a file is also here. That means you can also do cat cat and display the contents of itself. The difference between the bin directory right in the root vs the bin found elsewhere is that the binaries in this directory are considered system essentials. The bare minimum applications that your system requires to perform operations(until you mount /usr) in case you are in a single user mode.     
+Looks like a bunch of gibberish doesn't it. Yes, you aren't supposed to understand anything because these are machine readable binaries. Other commands you should find here are `cp`, `rm`, `cat` etc. The `cat` command we used above to display the contents of a file is also here. That means you can also do `cat cat` and display the contents of itself. The difference between the /bin directory right in the root vs the bin found elsewhere is that the binaries in this directory are considered system essentials. The bare minimum applications that your system requires to perform operations(until you mount /usr) in case you are in a single user mode.     
 
 
 # **2) /sbin**
-sbin also called the system binaries is like bin but it contains commands only the administrators can use. This directory contains executables too but unlike the /bin directory where even normal users can access those programs, the files in this program need root privileges and are most often useful for system administration and maintenance tasks. For example, you may want to delete that 4th user profile on your family PC coz your brother has moved out and has his own laptop. In that case, you probably would use the deluser command which resides in this directory. similarly you will find adduser command here which is used to mount a new user. Other popular commands like the root, init and ifconfig can be found here.  
+sbin also called the system binaries is like bin but it contains commands only the administrators can use. This directory contains executables too but unlike the /bin directory where even normal users can access those programs, the files in this program need root privileges and are most often useful for system administration and maintenance tasks. 
+
+For example, you may want to delete that 4th user profile on your family PC because your brother has moved out and has his own laptop now. In that case, you probably would use the `deluser` command which resides in this directory. Similarly you will find the `adduser` command here which is used to mount a new user. Other popular commands like the `root`, `init` and `ifconfig` can be found here.  
 
 # **3) /lib**
 /lib directory contains the shared library files that the system needs to boot and also the binaries  we saw in the first two sections to function.  This directory is also home to the kernal modules so it's best not to mess with this directory.
 
+![lib-modules](https://user-images.githubusercontent.com/22865262/201539890-00a8fa74-c215-4bff-a06e-2fbb5656dc8c.png)
+
+
 # **4) /dev**
-The /dev directory also called device is where you device files exist. That is, your solid state drives, hard drives, printers etc.  And what makes this directory so interesting is that it reiterates one interesting fact about the linux filesystem and that is "everything is a file in linux". That means you can cd /dev into this directory and locate your Hard drive and read it like a regular file. If you actually want to try the sudo cat sda command, then be ready with Ctrl + C to stop your terminal from exploding. There is a lot on this directory, but what's interesting are the sda files. In my case I only have sda. but if you have partitions made, you may see sda1 sda2 sda 3 etc, and if you have more drives mounted, you will see, sdb, sdc and so on.   
+The /dev directory also called device is where you device files exist. That is, your solid state drives, hard drives, printers etc.  And what makes this directory so interesting is that it reiterates one interesting fact about the linux filesystem and that is "everything is a file in linux". That means you can `cd /dev` into this directory, locate your hard drive and read it like a regular file. If you actually want to try the `sudo cat sda` command, then be ready with Ctrl + C to stop your terminal from exploding. There is a lot on this directory, but what's interesting are the sda files. In my case I only have the sda file. but if you have partitions made, you may see sda1 sda2 sda 3 etc, and if you have more drives mounted, you will see, sdb, sdc and so on.   
+![dev-ls](https://user-images.githubusercontent.com/22865262/201539960-769809e3-c9ef-48dc-992e-a646da5bb22c.png)
+
+
 
 # **5) /boot**
 As the name suggests, the /boot directory contains files that you system needs to boot. Pretty self explanatory and the other name for this directory is "DO NOT TOUCH". Don't mess with the contents of this directory unless you want to ruin your PC.
 
 
-
 # **6) /home**
 Now we come to the directory where we feel the most safe at. When you open your file manager and see folders like Documents, Downloads, Pictures etc, the home directory is where all of that exists. In the /home you will find user profiles. In my case, as you see there is only one (@drwho) but you could have multiple based on who's using the machine and in each user profile will they have their own personal files. Nothing fancy here. A neat little trick to keep in mind is this - Whenever you are in any unknown directory and feel a bit lost of overwhelmed, just type cd on your terminal and it will bring you to the home directory which is our safe and cozy space.
+
+![homedir](https://user-images.githubusercontent.com/22865262/201540081-4bfe2213-454a-4547-bf78-22023d3de027.png)
+
 
 
 # **7) /root**
