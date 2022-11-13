@@ -16,6 +16,8 @@ And if you want to know who you are (username), just type `whoami` in the termin
 
 Open your terminal and type `cd /` and that will take you to the root directory. Type the `ls` command to see the files and folders that are in this root directory. Alternatively if you want to see a tree, type `tree -L 1` and hit enter. 
 
+![rootdir](https://user-images.githubusercontent.com/22865262/201539034-f830f302-daca-4ea3-99e4-113fbea96b58.png)
+
 What you see here are the important directories that almost every linux distro is made of and let's go over each of these in detail.      
 
 # 1) /bin
