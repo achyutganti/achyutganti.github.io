@@ -101,8 +101,14 @@ This directory is a latest edition into the linux file system and is a successor
 # **11) /opt**
 /opt also called Optional contains any files that are optional. That is, any custom applications that the users write themselves or any add-on applications that are not part of the default installation. Let's take a look at my /opt folder. I have a few things in here. For the add on-softwares I would expect more applications to be in here. But it also makes sense to consider /opt folder as a secondary home folder.  
 
+![opt-dir](https://user-images.githubusercontent.com/22865262/201540503-2d39ffc6-b96d-4c08-ae81-0e011fb56a5b.png)
+
+
 # **12) /proc**
 The proc directory is another one of those weird directories because it's virtual. Linux file system facilitates running processes on a virtual file system mounted on /proc. From the root dir, type  'cd proc' and look at the contents of that directory. You see a bunch of numbers as directory names. These numbers are the pids. Look at my proc folder and you will notice that the total size of the contents in the directory is 0 which is weird. This is because these are created on the fly as they are read and are updated on the fly. In a nutshell this directory stores information about the various instances running on your system.   
+
+![proc](https://user-images.githubusercontent.com/22865262/201540510-c39cb78a-70d4-43c9-9eb5-ace2375d305b.png)
+
 
 # **13) /tmp**
 Needs no introduction, /tmp stands for temporary. It contains all the temp files and directories that are being used by the computer and and are kept on disk. By default the files that are kept in the tmp folder are deleted within 10 days.
