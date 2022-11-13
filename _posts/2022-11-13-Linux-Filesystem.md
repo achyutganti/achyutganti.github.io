@@ -12,7 +12,7 @@ Some basics, first, when you do `Ctrl+Alt+T` on your keyboard, you will load up 
 
 And if you want to know who you are (username), just type `whoami` in the terminal and linux will tell you who you are. And if you want to know the hostname, then there are two ways to do that. Simply type `hostname` in terminal, or you can either do `cat /etc/hostname`. Remember this other one and will come back to it later when we discuss the file structure in linux. 
 
-<p float="left">
+<p float="center">
   <img src="/images/posts/whoami.png" width="400" />
   <img src="/images/posts/hostname.png" width="400" /> 
 </p>
