@@ -4,13 +4,15 @@ title: Understanding Linux File System
 permalink: /filesystem_hierarchy-standard/
 ---
 
-If you are somebody like me,to say that the linux file system is confusing to navigate through and look at is an understatement. Especially as a new user It can be daunting and for the right reasons. 
+To say that the Linux file system is confusing to navigate through and look at is an understatement. Especially as a new user It can be daunting and for the right reasons. 
 
-A single wrong move and you destroy the boot loader or misuse the super user access and mess up your entire device. For that reason, let's go over the various directories in linux root directory and beyond and understand what their functions are. This tutorial assumes that you have a basic understanding of linux commands like cd,ls, pwd, cat etc. 
+A single wrong move and you destroy the boot loader or misuse the super user access and mess up your entire device. For that reason, let's go over the various directories in linux root directory and beyond and understand what their functions are. This tutorial assumes that you have a basic understanding of linux commands like `cd`,`ls`, `pwd`, `cat` etc. 
 
 Some basics, first, when you do `Ctrl+Alt+T` on your keyboard, you will load up the terminal. And what you see there are generally two distinct words separated by '@'. The first half of that string tells you the username in your home directory. There could be multiple depending on how many users have accounts on your system. And the second half of the string is called the hostname or domain name. Consider that your machine's name.
 
 And if you want to know who you are (username), just type `whoami` in the terminal and linux will tell you who you are. And if you want to know the hostname, then there are two ways to do that. Simply type `hostname` in terminal, or you can either do `cat /etc/hostname`. Remember this other one and will come back to it later when we discuss the file structure in linux. 
+
+![whoami](/images/posts/whoami.png)
 
 Open your terminal and type `cd /` and that will take you to the root directory. Type the `ls` command to see the files and folders that are in this root directory. Alternatively if you want to see a tree, type `tree -L 1` and hit enter. 
 
