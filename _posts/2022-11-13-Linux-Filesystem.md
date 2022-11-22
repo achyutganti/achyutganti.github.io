@@ -60,25 +60,29 @@ The /dev directory also called device is where you device files exist. That is, 
 ![dev-ls](https://user-images.githubusercontent.com/22865262/201539960-769809e3-c9ef-48dc-992e-a646da5bb22c.png)
 
 
+# 5) /etc
 
-# **5) /boot**
+This directory was once called "Et cetera" is now the directory where all your system wide configuration files are located. Your hostname, your time zone, you will also see files that contain passwords etc in this folder. `ls` into this directory and you will notice many `.conf` files that define the parameters and preferences applied to your applications and OS as well. 
+
+
+# **6) /boot**
 As the name suggests, the /boot directory contains files that you system needs to boot. Pretty self explanatory and the other name for this directory is "DO NOT TOUCH". Don't mess with the contents of this directory unless you want to ruin your PC.
 
 
-# **6) /home**
+# **7) /home**
 Now we come to the directory where we feel the most safe at. When you open your file manager and see folders like Documents, Downloads, Pictures etc, the home directory is where all of that exists. In the /home you will find user profiles. In my case, as you see there is only one (@drwho) but you could have multiple based on who's using the machine and in each user profile will they have their own personal files. Nothing fancy here. A neat little trick to keep in mind is this - Whenever you are in any unknown directory and feel a bit lost of overwhelmed, just type `cd` on your terminal and it will bring you to the home directory which is our safe and cozy space.
 
 ![homedir](https://user-images.githubusercontent.com/22865262/201540081-4bfe2213-454a-4547-bf78-22023d3de027.png)
 
 
 
-# **7) /root**
+# **8) /root**
 Just like regular users (@drwho) have their own home directory, the /root directory is our system administrator's home directory. One of the most secured directories in the linux file system. It doesn't even let me in. You could `sudo ls root` to look at its contents.Another one of those "DONT MESS WITH ME" privileges. In Ubuntu there are two ways you can get access to the root user. One is using the `su` command which stands for substitute user or super user  and the other is `sudo` command. They both achieve the same results but in a slightly different ways. Running `su` command actually lets you log into the super user account and run commands or scripts  unconditionally whereas `sudo` lets you be in the current user account while temporarily elevating your access to the root level. `sudo` is considered much more safer than `su` because of the inherent risks `su` command possesses.  
 
 ![root](https://user-images.githubusercontent.com/22865262/201540555-9ebb9f27-328b-4d5c-8708-51a405918b25.png)
 
 
-# **8) /usr**
+# **9) /usr**
 The next directory is /usr also called the User directory and this is where things begin to get a little confusing for users. Type `cd usr` and get inside it and take a look at its contents. That's strange. You have a another bin subdirectory, a lib and sbin folders too. Go inside the bin folder to see what you have? 
 
 ![usr-bin](https://user-images.githubusercontent.com/22865262/201540237-b587e72c-a11c-4906-bfe0-54514460ebee.png)
@@ -87,7 +91,7 @@ The next directory is /usr also called the User directory and this is where thin
 The contents are all the same as of the /bin directory in the root. Check sbin and you should see something similar. These days /bin and /usr/bin are identical meaning one is a symbolic link to the latter. But there is an interesting piece of history behind it as for why the original creators needed two separate directories when they're basically doing the same. In short due to storage and that being expensive back in the days. The technical difference between them is that the /bin folder contains bare essentials for the system to survive even before the /usr directory is mounted and the /usr/bin directory contains all the other files that users install later like word processors, search engines and other applications. 
 
 
-# **9) /media**
+# **10) /media**
 This directory is a latest edition into the linux file system and is a successor to the /mnt directory. Simply put, this directory mounts drives. Any external storage you connect to your machine will be automatically mounted here as files. Take a look at the screenshots below. 
 
 
@@ -97,17 +101,17 @@ This directory is a latest edition into the linux file system and is a successor
 </p>
 
 
-# **10) /mnt**
+# **11) /mnt**
 /mnt is the predecessor to the media directory and does the same function, i.e., it mounts drives too but something that a user does manually.
 
 
-# **11) /opt**
+# **12) /opt**
 /opt also called Optional contains any files that are optional. That is, any custom applications that the users write themselves or any add-on applications that are not part of the default installation. Let's take a look at my /opt folder. I have a few things in here. For the add on-softwares I would expect more applications to be in here. But it also makes sense to consider /opt folder as a secondary home folder.  
 
 ![opt-dir](https://user-images.githubusercontent.com/22865262/201540503-2d39ffc6-b96d-4c08-ae81-0e011fb56a5b.png)
 
 
-# **12) /proc**
+# **13) /proc**
 The proc directory is another one of those weird directories because it's virtual. Linux file system facilitates running processes on a virtual file system mounted on /proc. From the root dir, type  'cd proc' and look at the contents of that directory. You see a bunch of numbers as directory names. These numbers are the pids. Look at my proc folder and you will notice that the total size of the contents in the directory is 0 which is weird. 
 
 ![proc](https://user-images.githubusercontent.com/22865262/201540510-c39cb78a-70d4-43c9-9eb5-ace2375d305b.png)
@@ -116,7 +120,7 @@ This is because these are created on the fly as they are read and are updated on
 
 
 
-# **13) /tmp**
+# **14) /tmp**
 Needs no introduction, /tmp stands for temporary. It contains all the temp files and directories that are being used by the computer and and are kept on disk. By default the files that are kept in the tmp folder are deleted within 10 days.
 
 ## Final Words
