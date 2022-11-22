@@ -1,4 +1,4 @@
 # achyutganti.github.io
 
-Currently hosts [Achyut Ganti](https://achyutganti.github.io), my personal website
+Currently hosts [Achyut Ganti](https://achyutganti.com), my personal website
 
